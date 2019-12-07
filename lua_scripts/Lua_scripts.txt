@@ -1,0 +1,1 @@
+Copy eluna script files here and the server load automatically.
