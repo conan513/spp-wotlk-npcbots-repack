@@ -1,8 +1,9 @@
 <NotepadPlus>
     <Session activeView="0">
-        <mainView activeIndex="1">
+        <mainView activeIndex="2">
             <File firstVisibleLine="358" xOffset="0" scrollWidth="1144" startPos="0" endPos="0" selMode="0" lang="Normal Text" encoding="-1" userReadOnly="no" filename="C:\Users\Conan\Desktop\TrinityBuilderV3\TrinityBuilder\Build\TC_NPCBOTS_Win32\bin\Release\authserver.conf" backupFilePath="" originalFileLastModifTimestamp="544979443" originalFileLastModifTimestampHigh="30780652" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
             <File firstVisibleLine="339" xOffset="0" scrollWidth="872" startPos="0" endPos="0" selMode="0" lang="Normal Text" encoding="-1" userReadOnly="no" filename="C:\Users\Conan\Desktop\TrinityBuilderV3\TrinityBuilder\Build\TC_NPCBOTS_Win32\bin\Release\worldserver.conf" backupFilePath="" originalFileLastModifTimestamp="353269302" originalFileLastModifTimestampHigh="30780652" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="-202182160" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="4103" xOffset="0" scrollWidth="1240" startPos="138847" endPos="138847" selMode="0" lang="Normal Text" encoding="-1" userReadOnly="no" filename="C:\Users\Conan\Desktop\TrinityBuilderV3\TrinityBuilder\Source\npcbots-repack\spp-wotlk-npcbots\worldserver.conf" backupFilePath="C:\Users\Conan\Desktop\TrinityBuilderV3\TrinityBuilder\Source\npcbots-repack\spp-wotlk-npcbots\Tools\Notepad++\backup\worldserver.conf@2019-12-08_074332" originalFileLastModifTimestamp="-866624333" originalFileLastModifTimestampHigh="30780818" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="55574528" mapWrapIndentMode="-1" mapIsWrap="no" />
         </mainView>
         <subView activeIndex="0" />
     </Session>
