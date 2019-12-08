@@ -1,3 +1,3 @@
 @echo off
 set mainfolder=%CD%
-"%mainfolder%\Tools\Notepad++\notepad++.exe" "%mainfolder%\worldserver.conf"
+start "" "%mainfolder%\Tools\Notepad++\notepad++.exe" "%mainfolder%\Servers\worldserver.conf"
