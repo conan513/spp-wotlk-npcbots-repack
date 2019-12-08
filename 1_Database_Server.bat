@@ -1,4 +1,5 @@
 @echo off
+COLOR 0b
 SET NAME=SingleCore Database
 TITLE %NAME%
 set mainfolder=%CD%
@@ -10,7 +11,7 @@ if not exist "%mainfolder%\Database\connection.cnf" goto extract_db
 goto check_2
 
 :check_2
-if not exist "%mainfolder%\%fulldb_name%" goto extract_fulldb
+if not exist "%mainfolder%\Servers\%fulldb_name%" goto extract_fulldb
 goto launch_db
 
 :launch_db
@@ -22,5 +23,7 @@ exit
 goto check
 
 :extract_fulldb
+cd "%mainfolder%\Servers"
 "%mainfolder%\Tools\7za.exe" x "%mainfolder%\Tools\FullDB.7z"
+cd "%mainfolder%"
 goto check
